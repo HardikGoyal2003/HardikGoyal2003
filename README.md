@@ -14,7 +14,7 @@ and enjoy solving problems across the stack.
 - 🌍 [**Google Summer of Code 2025 Contributor**](https://summerofcode.withgoogle.com/programs/2025/projects/ZkQDPP94) at **Oppia Foundation**
 - 🧠 Work on **large-scale, long-lived codebases** with real users
 - 🔍 Interested in **software design, backend systems, and problem-solving**
-- 📚 Actively improving **DSA, algorithms, and system fundamentals**
+- 📚 Actively working on **DSA, and system fundamentals**
 
 I enjoy understanding *why* systems work the way they do — not just making things look good.
 
@@ -26,9 +26,7 @@ I enjoy understanding *why* systems work the way they do — not just making thi
 - 🔧 Refactored and modularized **15+ production components**
 - 🧪 Wrote **50+ automated tests** and reviewed PRs for correctness & maintainability
 - 🧹 Helped complete a **7-year AngularJS → Angular migration**
-- 🤝 Mentored contributors and improved developer onboarding workflows
-
-*(Most of my recent work is frontend-heavy, but I routinely work with backend APIs, validation logic, routing, and system-level decisions.)*
+- 🤝 Mentored & led many contributors and improved developer onboarding workflows
 
 
 
@@ -60,7 +58,7 @@ I enjoy understanding *why* systems work the way they do — not just making thi
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Coding Profiles
 <p align="center">
     <a href="https://leetcode.com/u/hardikgoyal2003/" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" alt="eca_22b0311054" height="50" width="60" /></a>
-    <a href="https://www.codechef.com/users/eca_22b0311054" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eca_22b0311054" height="50" width="60" /></a>
+    <a href="https://www.codechef.com/users/hardik_1503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="eca_22b0311054" height="50" width="60" /></a>
     <a href="https://www.hackerrank.com/eca_22b0311054" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" alt="eca_22b0311054" height="50" width="60" /></a>
 </p><br>
 
