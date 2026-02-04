@@ -64,12 +64,4 @@ I enjoy understanding *why* systems work the way they do — not just making thi
 
 
 
-## 🎯 Career Focus
 
-- 🎯 **SDE / SWE Intern & New Grad Roles**
-- 🧠 Strong focus on fundamentals, maintainable code, and testing
-- 🌱 Looking to grow across system design and backend engineering
-
-
-
-⭐ Open to meaningful software problems and long-term impact.
